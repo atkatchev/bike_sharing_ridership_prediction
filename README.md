@@ -6,7 +6,7 @@ The bike sharing ridership prediction project is the first project of the Udacit
 
 1. Clone the repository
 ```console
-git clone https://github.com/atkatchev/DLND/tree/master/DLND_Project1_workspace 
+git clone https://github.com/atkatchev/bike_sharing_ridership_prediction 
 cd DLND_Project1_workspace 
 ```
 2. Conda users follow below or see [Dependencies Section](#Dependencies)
